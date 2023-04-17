@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TopicPublisher
+build_property.ProjectDir = C:\Users\hussaini.gadige\OneDrive - Qentelli\Documents\Azure Projects\event-grid-dotnet-publish-consume-events\EventGridPublisher\TopicPublisher\
